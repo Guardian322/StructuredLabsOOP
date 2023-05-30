@@ -1,0 +1,3 @@
+﻿  PTR.cpp
+C:\Users\neket\Desktop\projects\visual\Laba5\PTR\PTR\PTR.cpp(49,27): error C2440: инициализация: невозможно преобразовать "Point *" в "std::unique_ptr<Point *,std::default_delete<Point *>>"
+C:\Users\neket\Desktop\projects\visual\Laba5\PTR\PTR\PTR.cpp(49,27): message : Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно

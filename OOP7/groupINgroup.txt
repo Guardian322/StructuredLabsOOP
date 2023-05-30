@@ -1,0 +1,13 @@
+1
+Group
+True
+2
+Circle
+889 290 40 -16777216 False 1395 654 
+Group
+False
+2
+Circle
+529 177 40 -16777216 False 1395 654 
+Circle
+303 277 40 -16777216 False 1395 654 
